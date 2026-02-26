@@ -1,10 +1,9 @@
-<div align="center">
+<div align="left">
 
 # Hi There, I'm Feng! 👋
+📍 Heidelberg, Germany | 🎓 Heidelberg University & M.Sc Computer Science
 
-**Building intelligent systems with ML & AI**
-
-Previously at **Mercedes-Benz Group** · M.Sc. in Data & Computer Science · Heidelberg, Germany
+**I enjoy building agentic systems**
 
 <br/>
 
@@ -17,14 +16,7 @@ Previously at **Mercedes-Benz Group** · M.Sc. in Data & Computer Science · Hei
 
 ---
 
-### 🚀 Current Projects
+### Current Projects
 
-**🎭 [emotion-net](https://coresheep.github.io/emotion-net/)** — Multimodal emotion knowledge graph with D3 visualization
-
-**🏢 [company-atlas](https://coresheep.github.io/company-atlas/)** — Firmographic data platform built with Airflow, Snowflake, and dbt
-
----
-
-<div align="center">
-<sub>May your models converge and your gradients flow smoothly ✨</sub>
-</div>
+- **🤗 [emotion-net](https://coresheep.github.io/emotion-net/)** — Multimodal emotion knowledge graph with D3 visualization
+- **📊 [company-atlas](https://coresheep.github.io/company-atlas/)** — Firmographic data platform built with Airflow, Snowflake, and dbt

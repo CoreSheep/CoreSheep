@@ -16,5 +16,5 @@
 
 ### Current Projects
 
-- **🤗 [emotion-net](https://coresheep.github.io/emotion-net/)** — Multimodal emotion knowledge graph with D3 visualization
-- **📊 [company-atlas](https://coresheep.github.io/company-atlas/)** — Firmographic data platform built with Airflow, Snowflake, and dbt
+- **🤗 [emotion-net](https://coresheep.github.io/emotion-net/)** — an interactive web for exploring emotion words and phases, human emotions, multi-model, KG 
+- **📊 [company-atlas](https://coresheep.github.io/company-atlas/)** — a firmographic data platform built with Airflow, Snowflake, and dbt

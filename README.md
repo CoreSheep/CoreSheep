@@ -16,5 +16,5 @@
 
 ### Current Projects
 
-- **🤗 [emotion-net](https://coresheep.github.io/emotion-net/)** — an interactive web for exploring emotion words and phases, human emotions, multi-model, KG 
+- **🤗 [emotion-net](https://coresheep.github.io/emotion-net/)** — an interactive web for exploring emotion words and phrases, human emotions, multi-model, KG 
 - **📊 [company-atlas](https://coresheep.github.io/company-atlas/)** — a firmographic data platform built with Airflow, Snowflake, and dbt

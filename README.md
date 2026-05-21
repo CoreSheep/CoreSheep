@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jiufeng-li-520040273)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jiufengblog.web.app/)
 
-🧑🏻‍💻 Currently at @Apple as ML Engineer working on ML / AI / Multi-agent systems
+🧑🏻‍💻 Currently at @Apple as ML Engineer working on ML / AI / Multi-agent systems  
 📍 Munich, Germany | 🎓 Heidelberg University & M.Sc Computer Science
 
  **I enjoy building agentic systems & RL algorithms**
